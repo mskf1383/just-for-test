@@ -1,2 +1,2 @@
-import os
-os.system('cls')
+import subprocess
+subprocess.call('cls', shell=False)
