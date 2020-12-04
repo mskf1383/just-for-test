@@ -4,7 +4,7 @@ z = x + y
 print(8/0)
 def hello():
   return 0
-if x == True:
+if x is True:
   pass
 else:
   pass
